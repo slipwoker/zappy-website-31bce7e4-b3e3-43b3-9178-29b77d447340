@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Dive into hundreds of fun website games you can play right now—no downloads, no waiting. PixelPulse brings you the ultimate free gaming experience in your browser.
+
+### Games
+https://example.com/games
+Explore endless entertainment with our massive collection of free website games. From action to puzzles, find your next favorite game and start playing instantly.
+
+### About
+https://example.com/about
+Discover how PixelPulse revolutionizes online gaming by delivering instant-play experiences. No downloads, no hassle—just pure gaming fun for everyone, everywhere.
+
+### Contact
+https://example.com/contact
+Have questions or feedback about our gaming platform? Reach out to the PixelPulse team and let us know how we can enhance your online gaming experience today.
+
+### Products
+https://example.com/products
+Our Products - PixelPulse
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - PixelPulse
+
+### Category
+https://example.com/category/:slug
+Products - PixelPulse
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
